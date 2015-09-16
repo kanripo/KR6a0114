@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說馬有三相經
+#+DATE: 2015-08-30 19:31:49.029146
+#+PROPERTY: JUAN 0
