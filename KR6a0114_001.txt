@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:31:49.793693
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:40
 #+TITLE: 佛說馬有三相經
 #+PROPERTY: CBETA_ID T02n0114
 #+PROPERTY: ID KR6a0114
